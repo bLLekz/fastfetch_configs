@@ -1,1 +1,1 @@
-# fastfetch_configs
+# Конфиги для fastfetch
